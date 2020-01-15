@@ -1,0 +1,904 @@
+{
+  "schedules": [
+    {
+      "id": "011",
+      "start": {
+        "hour": 0,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Cleanup"
+    },
+    {
+      "id": "008",
+      "start": {
+        "hour": 8,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Tech"
+    },
+    {
+      "id": "016",
+      "start": {
+        "hour": 22,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Waiter"
+    },
+    {
+      "id": "025",
+      "start": {
+        "hour": 6,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Waiter"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 22,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Cook"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 8,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Run Event"
+    },
+    {
+      "id": "001",
+      "start": {
+        "hour": 17,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "013",
+      "start": {
+        "hour": 7,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Perform"
+    },
+    {
+      "id": "015",
+      "start": {
+        "hour": 12,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Tech"
+    },
+    {
+      "id": "025",
+      "start": {
+        "hour": 11,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Waiter"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 9,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "025",
+      "start": {
+        "hour": 9,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Cook"
+    },
+    {
+      "id": "011",
+      "start": {
+        "hour": 17,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Cleanup"
+    },
+    {
+      "id": "007",
+      "start": {
+        "hour": 11,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Cook"
+    },
+    {
+      "id": "005",
+      "start": {
+        "hour": 21,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Perform"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 7,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Lead"
+    },
+    {
+      "id": "018",
+      "start": {
+        "hour": 18,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Host"
+    },
+    {
+      "id": "016",
+      "start": {
+        "hour": 12,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Setup"
+    },
+    {
+      "id": "024",
+      "start": {
+        "hour": 15,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Cook"
+    },
+    {
+      "id": "002",
+      "start": {
+        "hour": 14,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Run Event"
+    },
+    {
+      "id": "025",
+      "start": {
+        "hour": 20,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Tech"
+    },
+    {
+      "id": "015",
+      "start": {
+        "hour": 9,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Oversee"
+    },
+    {
+      "id": "011",
+      "start": {
+        "hour": 11,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Cook"
+    },
+    {
+      "id": "018",
+      "start": {
+        "hour": 8,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Cook"
+    },
+    {
+      "id": "006",
+      "start": {
+        "hour": 23,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Setup"
+    },
+    {
+      "id": "020",
+      "start": {
+        "hour": 15,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Host"
+    },
+    {
+      "id": "017",
+      "start": {
+        "hour": 12,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Cook"
+    },
+    {
+      "id": "026",
+      "start": {
+        "hour": 9,
+        "minute": 30
+      },
+      "duration": 120,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 15,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Lead"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 18,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Prepare"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 16,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Prepare"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 1,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "DJ"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 13,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 10,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Run Event"
+    },
+    {
+      "id": "016",
+      "start": {
+        "hour": 2,
+        "minute": 0
+      },
+      "duration": 120,
+      "activity": "Prepare"
+    },
+    {
+      "id": "020",
+      "start": {
+        "hour": 16,
+        "minute": 30
+      },
+      "duration": 120,
+      "activity": "Run Event"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 12,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "006",
+      "start": {
+        "hour": 19,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Tech"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 17,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "DJ"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 20,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Perform"
+    },
+    {
+      "id": "018",
+      "start": {
+        "hour": 15,
+        "minute": 45
+      },
+      "duration": 120,
+      "activity": "Waiter"
+    },
+    {
+      "id": "021",
+      "start": {
+        "hour": 22,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Lead"
+    },
+    {
+      "id": "026",
+      "start": {
+        "hour": 16,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Tech"
+    },
+    {
+      "id": "026",
+      "start": {
+        "hour": 22,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "006",
+      "start": {
+        "hour": 13,
+        "minute": 0
+      },
+      "duration": 120,
+      "activity": "Prepare"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 0,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Oversee"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 13,
+        "minute": 15
+      },
+      "duration": 120,
+      "activity": "Perform"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 7,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Cook"
+    },
+    {
+      "id": "017",
+      "start": {
+        "hour": 11,
+        "minute": 45
+      },
+      "duration": 30,
+      "activity": "Setup"
+    },
+    {
+      "id": "016",
+      "start": {
+        "hour": 15,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Host"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 19,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "008",
+      "start": {
+        "hour": 10,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Setup"
+    },
+    {
+      "id": "006",
+      "start": {
+        "hour": 6,
+        "minute": 30
+      },
+      "duration": 120,
+      "activity": "Host"
+    },
+    {
+      "id": "003",
+      "start": {
+        "hour": 8,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Perform"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 11,
+        "minute": 0
+      },
+      "duration": 120,
+      "activity": "Cleanup"
+    },
+    {
+      "id": "021",
+      "start": {
+        "hour": 12,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Lead"
+    },
+    {
+      "id": "015",
+      "start": {
+        "hour": 21,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Setup"
+    },
+    {
+      "id": "011",
+      "start": {
+        "hour": 1,
+        "minute": 45
+      },
+      "duration": 120,
+      "activity": "Oversee"
+    },
+    {
+      "id": "002",
+      "start": {
+        "hour": 15,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Cook"
+    },
+    {
+      "id": "024",
+      "start": {
+        "hour": 11,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Lead"
+    },
+    {
+      "id": "024",
+      "start": {
+        "hour": 18,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Tech"
+    },
+    {
+      "id": "011",
+      "start": {
+        "hour": 10,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "009",
+      "start": {
+        "hour": 22,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Run Event"
+    },
+    {
+      "id": "004",
+      "start": {
+        "hour": 10,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Oversee"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 7,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "009",
+      "start": {
+        "hour": 7,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Lead"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 22,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "DJ"
+    },
+    {
+      "id": "005",
+      "start": {
+        "hour": 16,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "002",
+      "start": {
+        "hour": 6,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Host"
+    },
+    {
+      "id": "002",
+      "start": {
+        "hour": 8,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "DJ"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 20,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Setup"
+    },
+    {
+      "id": "003",
+      "start": {
+        "hour": 20,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Waiter"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 7,
+        "minute": 30
+      },
+      "duration": 60,
+      "activity": "Cleanup"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 9,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "DJ"
+    },
+    {
+      "id": "007",
+      "start": {
+        "hour": 23,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Host"
+    },
+    {
+      "id": "005",
+      "start": {
+        "hour": 1,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Oversee"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 10,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Run Event"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 21,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Cleanup"
+    },
+    {
+      "id": "006",
+      "start": {
+        "hour": 18,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Prepare"
+    },
+    {
+      "id": "013",
+      "start": {
+        "hour": 23,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Cook"
+    },
+    {
+      "id": "014",
+      "start": {
+        "hour": 0,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Prepare"
+    },
+    {
+      "id": "003",
+      "start": {
+        "hour": 9,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Perform"
+    },
+    {
+      "id": "005",
+      "start": {
+        "hour": 15,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Prepare"
+    },
+    {
+      "id": "007",
+      "start": {
+        "hour": 19,
+        "minute": 15
+      },
+      "duration": 120,
+      "activity": "Waiter"
+    },
+    {
+      "id": "007",
+      "start": {
+        "hour": 14,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Host"
+    },
+    {
+      "id": "022",
+      "start": {
+        "hour": 19,
+        "minute": 30
+      },
+      "duration": 120,
+      "activity": "Lead"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 14,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Lead"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 19,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Tech"
+    },
+    {
+      "id": "024",
+      "start": {
+        "hour": 21,
+        "minute": 0
+      },
+      "duration": 120,
+      "activity": "Waiter"
+    },
+    {
+      "id": "025",
+      "start": {
+        "hour": 14,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Perform"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 8,
+        "minute": 45
+      },
+      "duration": 60,
+      "activity": "Run Event"
+    },
+    {
+      "id": "012",
+      "start": {
+        "hour": 0,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Tech"
+    },
+    {
+      "id": "009",
+      "start": {
+        "hour": 13,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Prepare"
+    },
+    {
+      "id": "010",
+      "start": {
+        "hour": 12,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Perform"
+    },
+    {
+      "id": "017",
+      "start": {
+        "hour": 15,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "Lead"
+    },
+    {
+      "id": "020",
+      "start": {
+        "hour": 23,
+        "minute": 15
+      },
+      "duration": 60,
+      "activity": "Tech"
+    },
+    {
+      "id": "018",
+      "start": {
+        "hour": 19,
+        "minute": 30
+      },
+      "duration": 30,
+      "activity": "DJ"
+    },
+    {
+      "id": "003",
+      "start": {
+        "hour": 1,
+        "minute": 0
+      },
+      "duration": 30,
+      "activity": "Welcome Guests"
+    },
+    {
+      "id": "024",
+      "start": {
+        "hour": 23,
+        "minute": 0
+      },
+      "duration": 60,
+      "activity": "Setup"
+    },
+    {
+      "id": "023",
+      "start": {
+        "hour": 9,
+        "minute": 15
+      },
+      "duration": 30,
+      "activity": "Run Event"
+    }
+  ]
+}

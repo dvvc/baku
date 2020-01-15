@@ -1,0 +1,30 @@
+{
+  "staff": [
+    { "title": "Teen Staff A" , "id": "001"},
+    { "title": "Teen Staff B" , "id": "002"},
+    { "title": "Kids Staff A" , "id": "003"},
+    { "title": "Kids Staff B" , "id": "004"},
+    { "title": "Kids Staff C" , "id": "005"},
+    { "title": "Kids Staff D" , "id": "006"},
+    { "title": "Cast - Singer" , "id": "007"},
+    { "title": "Cast - Dancer" , "id": "008"},
+    { "title": "Entertainment Technician" , "id": "009"},
+    { "title": "Bartenders" , "id": "010"},
+    { "title": "Bar Server" , "id": "011"},
+    { "title": "Host(ess)" , "id": "012"},
+    { "title": "Yoga Instructor" , "id": "013"},
+    { "title": "DJ" , "id": "014"},
+    { "title": "Cooking School Chef A" , "id": "015"},
+    { "title": "Cooking School Chef B" , "id": "016"},
+    { "title": "Tour Guide A" , "id": "017"},
+    { "title": "Chefs" , "id": "018"},
+    { "title": "Live Musicians" , "id": "019"},
+    { "title": "Servers" , "id": "020"},
+    { "title": "Meteorologist" , "id": "021"},
+    { "title": "CD+ACD" , "id": "022"},
+    { "title": "Comedian" , "id": "023"},
+    { "title": "Classical Band" , "id": "024"},
+    { "title": "Cruise Staff A" , "id": "025"},
+    { "title": "Lighting Technician", "id": "026" }
+  ]
+}
